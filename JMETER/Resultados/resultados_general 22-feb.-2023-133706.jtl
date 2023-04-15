@@ -1,8 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1677091086368,748,Url-20,200,OK,prueba 1-1,text,true,,7148,474,2,2,https://opencart.abstracta.us/,748,0,540
-1677091116367,637,Url-20,200,OK,prueba 1-2,text,true,,5104,474,2,2,https://opencart.abstracta.us/,637,0,444
-1677091147131,657,Register-54,200,OK,prueba 1-1,text,true,,7092,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,657,0,438
-1677091177009,646,Register-54,200,OK,prueba 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,646,0,442
-1677091207802,648,continue-70,200,OK,prueba 1-1,text,true,,7151,1752,2,2,https://opencart.abstracta.us/index.php?route=account/register,647,0,449
-1677091237663,640,continue-70,200,OK,prueba 1-2,text,true,,5356,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,639,0,436
-1677091268462,367,computador-84,200,OK,prueba 1-1,text,true,,9067,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,367,0,144
