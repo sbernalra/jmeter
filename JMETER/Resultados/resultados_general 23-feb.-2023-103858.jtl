@@ -1,0 +1,30 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677166738506,610,1.Url-20,200,OK,prueba 1-1,text,true,,7148,474,1,1,https://opencart.abstracta.us/,609,0,418
+1677166739118,184,2.Register-54,200,OK,prueba 1-1,text,true,,7091,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,184,0,0
+1677166739303,187,3.continue-70,200,OK,prueba 1-1,text,true,,5355,1686,1,1,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677166739491,353,4.computador-84,200,OK,prueba 1-1,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,353,0,138
+1677166739845,199,5.seleccion al carro-93,200,OK,prueba 1-1,text,true,,14407,581,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677166740045,575,Url-19,200,OK,prueba 1-1,text,true,,260,495,1,1,http://ocsp.digicert.com/,575,0,180
+1677166740045,575,Url,200,"Number of samples in transaction : 1, number of failing samples : 0",prueba 1-1,,true,,260,495,1,1,null,575,1,180
+1677166740622,138,Url-52,204,No Content,prueba 1-1,,false,Response was null,214,695,1,1,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F,0,0,0
+1677166740760,134,Url-53,204,No Content,prueba 1-1,,true,,214,759,1,1,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2F,0,0,0
+1677166740621,272,Url,,"Number of samples in transaction : 2, number of failing samples : 1",prueba 1-1,,false,,428,1454,1,1,null,0,2,0
+1677166740895,147,Register-62,200,OK,prueba 1-1,text,true,,492,635,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,147,0,0
+1677166741043,136,Register-63,204,No Content,prueba 1-1,,true,,214,742,1,1,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fregister,0,0,0
+1677166740895,283,Register,200,"Number of samples in transaction : 2, number of failing samples : 0",prueba 1-1,,true,,706,1377,1,1,null,147,1,0
+1677166741180,195,continue-71,200,OK,prueba 1-1,text,true,,7845,484,1,1,http://opencart.abstracta.us/index.php?route=account%2Fsuccess,195,0,0
+1677166741376,79,continue-76,200,OK,prueba 1-1,text,true,,1365,363,1,1,http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C300%2C700,78,0,9
+1677166741456,59,continue-80,200,OK,prueba 1-1,text,true,,45615,458,1,1,http://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2,27,0,13
+1677166741516,22,continue-81,200,OK,prueba 1-1,text,true,,45615,458,1,1,http://fonts.gstatic.com/s/opensans/v34/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2,15,0,0
+1677166741539,149,continue-83,204,No Content,prueba 1-1,,true,,214,660,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Fsuccess,0,0,0
+1677166741180,504,continue,200,"Number of samples in transaction : 5, number of failing samples : 0",prueba 1-1,,true,,100654,2423,1,1,null,315,5,22
+1677166741689,150,computador-91,204,No Content,prueba 1-1,,true,,214,713,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,0
+1677166741689,150,computador,200,"Number of samples in transaction : 1, number of failing samples : 0",prueba 1-1,,true,,214,713,1,1,null,0,0,0
+1677166741840,166,seleccion al carro-92,200,OK,prueba 1-1,text,true,,838,679,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,166,0,0
+1677166742006,151,seleccion al carro-110,204,No Content,prueba 1-1,,true,,214,757,1,1,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fproduct%26product_id%3D42,0,0,0
+1677166742158,163,seleccion al carro-109,200,OK,prueba 1-1,text,true,,606,533,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct%2Freview&product_id=42,163,0,0
+1677166741839,480,seleccion al carro,200,"Number of samples in transaction : 3, number of failing samples : 0",prueba 1-1,,true,,1658,1969,1,1,null,329,3,0
+1677166742322,586,formulario compra-113,200,OK,prueba 1-1,text,true,,591,150060,1,1,http://opencart.abstracta.us/index.php?route=tool/upload,586,0,0
+1677166742322,586,formulario compra,200,"Number of samples in transaction : 1, number of failing samples : 0",prueba 1-1,,true,,591,150060,1,1,null,586,0,0
+1677166742909,168,Add to cart-114,200,OK,prueba 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,168,0,0
+1677166742909,168,Add to cart,200,"Number of samples in transaction : 1, number of failing samples : 0",prueba 1-1,,true,,631,888,1,1,null,168,1,0

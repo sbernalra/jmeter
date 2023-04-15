@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677091477935,692,Url-20,200,OK,prueba 1-1,text,true,,5104,474,1,1,https://opencart.abstracta.us/,692,0,498
+1677091538631,629,Register-54,200,OK,prueba 1-1,text,true,,7092,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,629,0,424
+1677091599271,638,continue-70,200,OK,prueba 1-1,text,true,,5356,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,638,0,449
+1677091627944,613,Url-20,200,OK,prueba 1-2,text,true,,7148,474,2,2,https://opencart.abstracta.us/,613,0,417
+1677091659923,389,computador-84,200,OK,prueba 1-1,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,389,0,143
+1677091688565,669,Register-54,200,OK,prueba 1-2,text,true,,7091,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,669,0,470
+1677091720318,460,seleccion al carro-93,200,OK,prueba 1-1,text,true,,14408,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,460,0,205
+1677091749248,739,continue-70,200,OK,prueba 1-2,text,true,,7153,1796,1,1,https://opencart.abstracta.us/index.php?route=account/register,739,0,498
+1677091809995,428,computador-84,200,OK,prueba 1-2,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,428,0,214
+1677091870430,380,seleccion al carro-93,200,OK,prueba 1-2,text,true,,14409,581,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,379,0,140

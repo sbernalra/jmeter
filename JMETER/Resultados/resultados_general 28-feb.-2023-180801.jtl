@@ -1,0 +1,418 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677625682115,891,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7148,474,1,1,https://opencart.abstracta.us/,891,0,685
+1677625684013,191,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7090,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,191,0,0
+1677625685210,213,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1686,1,1,https://opencart.abstracta.us/index.php?route=account/register,213,0,0
+1677625686436,382,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,382,0,141
+1677625687830,266,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,14408,581,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,266,0,0
+1677625689097,605,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150060,1,1,http://opencart.abstracta.us/index.php?route=tool/upload,605,0,0
+1677625690712,176,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1677625691901,648,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,6905,549,1,1,https://opencart.abstracta.us/,648,0,417
+1677625693565,196,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7090,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,196,0,0
+1677625694769,191,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1774,1,1,https://opencart.abstracta.us/index.php?route=account/register,190,0,0
+1677625695973,381,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,380,0,138
+1677625697355,212,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,14406,581,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,212,0,0
+1677625698574,604,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150081,1,1,http://opencart.abstracta.us/index.php?route=tool/upload,604,0,0
+1677625700180,208,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,208,0,0
+1677625701396,736,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,6905,549,1,1,https://opencart.abstracta.us/,736,0,424
+1677625703137,190,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7090,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,190,0,0
+1677625704343,197,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1686,1,1,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1677625705551,363,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,363,0,138
+1677625706929,217,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,14408,581,1,1,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,217,0,0
+1677625708148,595,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150087,1,1,http://opencart.abstracta.us/index.php?route=tool/upload,595,0,0
+1677625709750,166,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,1,1,http://opencart.abstracta.us/index.php?route=checkout/cart/add,166,0,0
+1677625710931,623,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,6904,549,1,1,https://opencart.abstracta.us/,623,0,421
+1677625712566,189,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7091,631,1,1,https://opencart.abstracta.us/index.php?route=account%2Fregister,189,0,0
+1677625713771,211,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1763,1,1,https://opencart.abstracta.us/index.php?route=account/register,210,0,0
+1677625714988,361,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9067,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,360,0,140
+1677625716352,215,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,215,0,0
+1677625717093,620,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7147,474,2,2,https://opencart.abstracta.us/,619,0,423
+1677625717578,591,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,591,0,0
+1677625718722,186,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7092,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,186,0,0
+1677625719171,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625719912,192,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,191,0,0
+1677625720338,635,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,635,0,442
+1677625721113,354,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,353,0,139
+1677625721981,224,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,224,0,0
+1677625722469,214,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,213,0,0
+1677625723207,202,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,202,0,0
+1677625723697,687,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,687,0,0
+1677625724422,393,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,393,0,138
+1677625725395,177,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1677625725829,259,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,259,0,0
+1677625726587,660,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6904,549,2,2,https://opencart.abstracta.us/,660,0,425
+1677625727095,593,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150087,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,593,0,0
+1677625728264,190,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,190,0,0
+1677625728689,182,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,182,0,0
+1677625729462,190,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1730,2,2,https://opencart.abstracta.us/index.php?route=account/register,190,0,0
+1677625729888,610,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,610,0,420
+1677625730665,341,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,341,0,137
+1677625731510,196,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,196,0,0
+1677625732017,207,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14406,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,206,0,0
+1677625732714,185,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1774,2,2,https://opencart.abstracta.us/index.php?route=account/register,185,0,0
+1677625733239,589,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,589,0,0
+1677625733916,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,141
+1677625734841,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625735277,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625736014,674,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6905,549,2,2,https://opencart.abstracta.us/,673,0,470
+1677625736493,607,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,607,0,0
+1677625737693,187,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,186,0,0
+1677625738103,167,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,167,0,0
+1677625738893,237,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,236,0,0
+1677625739274,617,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,617,0,416
+1677625740141,478,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,478,0,140
+1677625740897,198,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,197,0,0
+1677625741625,260,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14408,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,259,0,0
+1677625742103,203,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,203,0,0
+1677625742893,587,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,586,0,0
+1677625743318,339,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,338,0,133
+1677625744488,178,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,178,0,0
+1677625744664,205,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,204,0,0
+1677625745677,619,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6905,549,2,2,https://opencart.abstracta.us/,618,0,418
+1677625745882,586,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,586,0,0
+1677625747303,190,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7089,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,189,0,0
+1677625747477,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625748505,201,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,201,0,0
+1677625748647,635,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,635,0,417
+1677625749722,371,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,371,0,139
+1677625750285,208,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,208,0,0
+1677625751106,257,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,257,0,0
+1677625751499,248,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1752,2,2,https://opencart.abstracta.us/index.php?route=account/register,247,0,0
+1677625752379,589,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,589,0,0
+1677625752761,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,349,0,137
+1677625753970,170,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,170,0,0
+1677625754126,219,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,218,0,0
+1677625755156,644,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6905,549,2,2,https://opencart.abstracta.us/,644,0,421
+1677625755345,1045,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150087,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,1045,0,0
+1677625756806,200,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,197,0,0
+1677625757404,168,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,168,0,0
+1677625758022,198,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,198,0,0
+1677625758575,693,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,693,0,428
+1677625759233,598,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9068,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,598,0,140
+1677625760270,193,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,193,0,0
+1677625760831,216,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,215,0,0
+1677625761472,189,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,189,0,0
+1677625762056,597,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,597,0,0
+1677625762671,389,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,389,0,139
+1677625763669,165,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,165,0,0
+1677625764063,228,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,228,0,0
+1677625764839,620,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6906,549,2,2,https://opencart.abstracta.us/,620,0,424
+1677625765293,597,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,597,0,0
+1677625766474,201,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,201,0,0
+1677625766893,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625767678,263,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,262,0,0
+1677625768071,648,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,648,0,429
+1677625768944,359,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9069,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,359,0,139
+1677625769734,245,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,244,0,0
+1677625770315,277,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14408,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,277,0,0
+1677625770985,235,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,235,0,0
+1677625771608,890,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,890,0,0
+1677625772222,355,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,355,0,139
+1677625773510,217,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,217,0,0
+1677625773587,206,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,205,0,0
+1677625774737,669,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,6906,549,2,2,https://opencart.abstracta.us/,669,0,417
+1677625774801,627,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,627,0,0
+1677625776435,200,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,199,0,0
+1677625776419,216,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,216,0,0
+1677625777647,217,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,217,0,0
+1677625777647,653,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,653,0,460
+1677625778874,401,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9066,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,400,0,139
+1677625779301,203,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,203,0,0
+1677625780281,237,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14408,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,237,0,0
+1677625780515,184,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625781530,686,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,686,0,0
+1677625781705,553,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,552,0,174
+1677625783225,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625783274,202,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,202,0,0
+1677625784402,623,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,623,0,432
+1677625784480,590,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,590,0,0
+1677625786038,186,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7091,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,186,0,0
+1677625786086,166,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,166,0,0
+1677625787238,187,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,187,0,0
+1677625787271,611,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,611,0,415
+1677625788432,354,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9067,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,353,0,142
+1677625788893,200,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,200,0,0
+1677625789797,212,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14408,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,211,0,0
+1677625790096,183,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,183,0,0
+1677625791022,584,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,584,0,0
+1677625791289,362,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,362,0,138
+1677625792617,175,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1677625792665,211,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,210,0,0
+1677625793803,621,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,621,0,414
+1677625793882,582,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150060,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,582,0,0
+1677625795429,188,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7091,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,187,0,0
+1677625795476,160,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,160,0,0
+1677625796625,215,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,215,0,0
+1677625796642,606,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,606,0,414
+1677625797844,345,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9067,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,345,0,138
+1677625798254,209,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,209,0,0
+1677625799199,202,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,202,0,0
+1677625799479,184,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625800407,589,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,589,0,0
+1677625800677,397,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,397,0,138
+1677625802011,161,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,161,0,0
+1677625802075,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625803178,608,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,608,0,415
+1677625803288,598,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,598,0,0
+1677625804799,188,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7090,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,188,0,0
+1677625804894,185,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,184,0,0
+1677625805988,189,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1719,2,2,https://opencart.abstracta.us/index.php?route=account/register,189,0,0
+1677625806082,614,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,613,0,421
+1677625807187,369,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9067,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,368,0,140
+1677625807709,199,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,198,0,0
+1677625808564,204,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,14407,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,204,0,0
+1677625808922,188,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,188,0,0
+1677625809778,590,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,590,0,0
+1677625810124,341,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,341,0,138
+1677625811375,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625811471,200,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625812542,613,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,613,0,419
+1677625812684,577,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150081,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,577,0,0
+1677625814165,245,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,245,0,0
+1677625814277,177,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1677625815412,184,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625815460,610,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,610,0,419
+1677625816598,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,349,0,139
+1677625817072,212,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,212,0,0
+1677625817963,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625818294,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1752,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625819178,622,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,622,0,0
+1677625819495,673,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,673,0,137
+1677625820804,177,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1677625821184,245,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,245,0,0
+1677625821989,650,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,650,0,433
+1677625822444,602,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,602,0,0
+1677625823654,187,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,187,0,0
+1677625824050,161,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,161,0,0
+1677625824854,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625825220,605,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,604,0,414
+1677625826055,348,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,348,0,141
+1677625826834,201,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,201,0,0
+1677625827418,208,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,208,0,0
+1677625828046,194,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1774,2,2,https://opencart.abstracta.us/index.php?route=account/register,194,0,0
+1677625828634,597,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150066,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,597,0,0
+1677625829242,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,137
+1677625830241,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625830598,203,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,203,0,0
+1677625831409,613,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,613,0,423
+1677625831816,589,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,589,0,0
+1677625833026,190,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,190,0,0
+1677625833420,164,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,164,0,0
+1677625834231,188,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1774,2,2,https://opencart.abstracta.us/index.php?route=account/register,187,0,0
+1677625834594,652,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,652,0,427
+1677625835434,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,349,0,138
+1677625836256,241,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,241,0,0
+1677625836794,211,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,211,0,0
+1677625837507,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1719,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625838017,587,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,586,0,0
+1677625838709,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,348,0,138
+1677625839610,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625840070,216,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,216,0,0
+1677625840780,613,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,613,0,417
+1677625841289,587,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,587,0,0
+1677625842396,190,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,190,0,0
+1677625842891,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625843594,200,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,200,0,0
+1677625844068,611,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,611,0,417
+1677625844808,713,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,713,0,140
+1677625845693,192,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,192,0,0
+1677625846532,200,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625846898,187,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625847733,617,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150072,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,617,0,0
+1677625848096,363,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,363,0,137
+1677625849360,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625849469,199,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677625850537,619,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,619,0,424
+1677625850681,590,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,590,0,0
+1677625852162,184,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,184,0,0
+1677625852273,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625853348,197,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1677625853444,611,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,611,0,420
+1677625854553,356,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,356,0,138
+1677625855057,243,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,243,0,0
+1677625855910,203,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,202,0,0
+1677625856304,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625857117,576,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150081,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,576,0,0
+1677625857512,346,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,346,0,139
+1677625858698,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625858872,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625859870,611,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,609,0,416
+1677625860075,587,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,587,0,0
+1677625861486,252,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,252,0,0
+1677625861678,164,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,164,0,0
+1677625862750,185,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1730,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625862860,615,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,615,0,420
+1677625863936,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,349,0,138
+1677625864490,185,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,185,0,0
+1677625865299,199,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677625865677,197,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1677625866500,593,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,593,0,0
+1677625866880,395,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,395,0,142
+1677625868094,164,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,164,0,0
+1677625868282,202,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625869268,623,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,623,0,420
+1677625869485,593,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,592,0,0
+1677625870906,259,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,259,0,0
+1677625871080,180,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,180,0,0
+1677625872173,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625872269,617,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,617,0,424
+1677625873368,365,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,365,0,139
+1677625873889,221,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,221,0,0
+1677625874745,241,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,241,0,0
+1677625875125,227,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1697,2,2,https://opencart.abstracta.us/index.php?route=account/register,227,0,0
+1677625875990,617,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,617,0,0
+1677625876366,386,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,385,0,139
+1677625877614,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625877757,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625878781,653,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,653,0,418
+1677625878973,591,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,591,0,0
+1677625880445,296,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,296,0,0
+1677625880569,186,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,186,0,0
+1677625881754,185,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625881771,763,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,763,0,428
+1677625882951,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,140
+1677625883538,199,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,199,0,0
+1677625884299,209,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,208,0,0
+1677625884740,184,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625885515,591,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150087,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,591,0,0
+1677625885926,406,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,406,0,139
+1677625887118,170,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,170,0,0
+1677625887338,200,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625888301,612,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,612,0,419
+1677625888539,591,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,591,0,0
+1677625889926,182,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,182,0,0
+1677625890147,157,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,157,0,0
+1677625891123,216,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,216,0,0
+1677625891313,637,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,637,0,413
+1677625892340,363,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,363,0,140
+1677625892953,187,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,187,0,0
+1677625893710,217,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,217,0,0
+1677625894151,226,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1763,2,2,https://opencart.abstracta.us/index.php?route=account/register,226,0,0
+1677625894942,617,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,616,0,0
+1677625895380,354,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,354,0,148
+1677625896569,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625896742,257,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,257,0,0
+1677625896742,257,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,257,0,0
+1677625897734,612,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,612,0,422
+1677625898004,605,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,605,0,0
+1677625899355,186,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,185,0,0
+1677625899625,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625900543,222,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1697,2,2,https://opencart.abstracta.us/index.php?route=account/register,221,0,0
+1677625900796,681,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,681,0,435
+1677625901777,346,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,346,0,138
+1677625902487,202,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,202,0,0
+1677625903137,202,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625903692,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,185,0,0
+1677625904350,591,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150066,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,591,0,0
+1677625904888,351,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,351,0,142
+1677625905954,160,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,160,0,0
+1677625906252,247,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,247,0,0
+1677625907131,623,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,622,0,419
+1677625907507,580,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,580,0,0
+1677625908763,188,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,188,0,0
+1677625909097,175,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1677625909954,191,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1697,2,2,https://opencart.abstracta.us/index.php?route=account/register,191,0,0
+1677625910287,660,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,660,0,418
+1677625911156,345,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,345,0,138
+1677625911962,220,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,220,0,0
+1677625912513,195,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,195,0,0
+1677625913196,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625913715,590,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150084,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,590,0,0
+1677625914407,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,140
+1677625915311,160,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,160,0,0
+1677625915767,200,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,200,0,0
+1677625916476,614,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,614,0,420
+1677625916982,641,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,641,0,0
+1677625918092,186,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,186,0,0
+1677625918626,165,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,165,0,0
+1677625919289,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1719,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625919795,610,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,610,0,416
+1677625920487,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,140
+1677625921419,214,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,214,0,0
+1677625921848,199,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677625922640,222,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1697,2,2,https://opencart.abstracta.us/index.php?route=account/register,222,0,0
+1677625923048,586,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,586,0,0
+1677625923870,344,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,343,0,137
+1677625924645,160,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,160,0,0
+1677625925216,198,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,198,0,0
+1677625925814,615,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,614,0,419
+1677625926415,597,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150063,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,597,0,0
+1677625927432,185,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,184,0,0
+1677625928024,167,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,166,0,0
+1677625928630,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625929194,607,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,607,0,415
+1677625929826,362,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,362,0,140
+1677625930810,186,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,185,0,0
+1677625931202,209,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,209,0,0
+1677625932007,201,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1785,2,2,https://opencart.abstracta.us/index.php?route=account/register,201,0,0
+1677625932414,592,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150060,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,592,0,0
+1677625933215,347,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,347,0,140
+1677625934016,171,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,171,0,0
+1677625934568,221,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,221,0,0
+1677625935202,608,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,608,0,417
+1677625935797,600,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150081,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,600,0,0
+1677625936825,226,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,226,0,0
+1677625937402,171,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,171,0,0
+1677625938062,196,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1677625938587,668,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,668,0,422
+1677625939265,354,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,354,0,136
+1677625940268,183,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,183,0,0
+1677625940632,197,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,196,0,0
+1677625941452,187,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1741,2,2,https://opencart.abstracta.us/index.php?route=account/register,187,0,0
+1677625941832,598,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150072,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,598,0,0
+1677625942651,366,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,366,0,139
+1677625943441,164,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,164,0,0
+1677625944021,210,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,210,0,0
+1677625944617,612,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,612,0,420
+1677625945241,578,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,578,0,0
+1677625946239,188,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,188,0,0
+1677625946832,162,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,162,0,0
+1677625947433,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1708,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625948001,641,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,641,0,418
+1677625948630,355,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,355,0,138
+1677625949659,189,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,189,0,0
+1677625949988,201,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,201,0,0
+1677625950859,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,185,0,0
+1677625951204,604,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,604,0,0
+1677625952052,345,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,345,0,141
+1677625952821,158,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,158,0,0
+1677625953404,206,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,206,0,0
+1677625953993,689,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,688,0,446
+1677625954624,631,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150078,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,631,0,0
+1677625955694,185,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,185,0,0
+1677625956269,166,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,166,0,0
+1677625956880,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1686,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625957451,658,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,657,0,419
+1677625958069,397,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,397,0,141
+1677625959117,223,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,223,0,0
+1677625959476,259,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,259,0,0
+1677625960348,184,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1752,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1677625960746,649,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150090,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,649,0,0
+1677625961535,360,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,360,0,155
+1677625962407,187,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,187,0,0
+1677625962897,237,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,237,0,0
+1677625963606,612,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,612,0,419
+1677625964139,642,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150069,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,641,0,0
+1677625965229,243,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,243,0,0
+1677625965795,200,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,200,0,0
+1677625966473,198,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1796,2,2,https://opencart.abstracta.us/index.php?route=account/register,198,0,0
+1677625967010,654,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,653,0,462
+1677625967683,339,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,339,0,134
+1677625968665,225,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,225,0,0
+1677625969031,199,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677625969898,245,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1730,2,2,https://opencart.abstracta.us/index.php?route=account/register,245,0,0
+1677625970234,593,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150075,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,593,0,0
+1677625971153,349,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,349,0,140
+1677625971836,165,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,165,0,0
+1677625972511,199,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,199,0,0
+1677625973018,631,1.Url,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,631,0,430
+1677625973715,599,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,591,150069,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,599,0,0
+1677625974663,184,2.Register,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,184,0,0
+1677625975317,163,7.Add to cart,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,631,888,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,163,0,0
+1677625975851,186,3.continue,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,5355,1697,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1677625976488,627,1.Url,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,627,0,429
+1677625977049,360,4.computador,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,7201,567,2,2,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,359,0,146
+1677625978131,194,2.Register,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5283,631,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister,194,0,0
+1677625978419,213,5.seleccion al carro,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,12444,581,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&product_id=42,212,0,0
+1677625979338,239,3.continue,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,5355,1774,2,2,https://opencart.abstracta.us/index.php?route=account/register,239,0,0
+1677625979640,599,6.formulario compra,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,591,150060,2,2,http://opencart.abstracta.us/index.php?route=tool/upload,599,0,0
+1677625980591,359,4.computador,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,7201,567,1,1,http://opencart.abstracta.us/index.php?route=product%2Fcategory&path=25_28,359,0,149
